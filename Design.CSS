@@ -1,0 +1,22 @@
+     body{
+            background-color: lightblue;
+        }
+        h1{
+            color: white;
+            text-shadow: 2px 2px 4px #000000;
+        }
+        p{
+            color: white;
+            text-shadow: 2px 2px 4px #000000;
+        }
+        button{
+            font-family: Comic Sans MS;
+           border-width: 5px;
+           border-color: black;
+        }
+        img{
+            border-radius: 60%;
+            border-style: solid;
+            border-width: 10px;
+            border-color: black;
+        }
