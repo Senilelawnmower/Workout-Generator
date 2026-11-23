@@ -15,7 +15,7 @@
         button{
             text-shadow: 2px 2px 4px #000000;
             height: 50px;
-            width: 100;
+            width: 100px;
             font-family: Comic Sans MS;
            border-width: 5px;
            border-color: black;
@@ -29,5 +29,17 @@
         #titleborder{
          height: 10px;
          background-color: rgb(3, 3, 32);
+        }
+        #reps{
+            font-family: Times New Roman;
+            font-size: 28px;
+            color: rgb(255, 255, 255);
+            text-shadow: 2px 2px 4px #000000;
+        }
+        #workout{
+            font-family: Times New Roman;
+            font-size: 28px;
+            color: rgb(255, 255, 255);
+            text-shadow: 2px 2px 4px #000000;
         }
     
